@@ -1,0 +1,3 @@
+/Users/artempetrenko/CLionProjects/tcpServer/cmake-build-debug/CMakeFiles/tcpServer.dir
+/Users/artempetrenko/CLionProjects/tcpServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/artempetrenko/CLionProjects/tcpServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
